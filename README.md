@@ -37,13 +37,13 @@ This template is designed to kickstart your new projects with ease. It encapsula
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/saadjavaid67/your-project.git
+   git clone https://github.com/saadjavaid67/nodejs-starter.git
    ```
 
 2. Clone the repository
 
    ```bash
-   cd your-project
+   cd nodejs-starter
    ```
 
 3. Install dependencies
@@ -116,7 +116,7 @@ Make a controller file 'modelNameController.js' in [controllers](/src/controller
 ## [Project Structure](#project-structure)
 
 ```js
-your-project
+nodejs-starter
 ├─ confg
 │   ├─ app.js
 │   └─ database.js
